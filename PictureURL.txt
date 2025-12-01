@@ -3,3 +3,6 @@
 
 [WhereWindsMeet]
 "https://files.catbox.moe/r7ujs9.jpg"
+
+[EscapeFromTarkov]
+"https://files.catbox.moe/j69hwa.jpg"
