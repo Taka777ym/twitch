@@ -17,3 +17,6 @@ https://taka777ym.github.io/twitch/
 
 [Pioner]
 "https://files.catbox.moe/o2nr6w.jpg"
+
+[Fortnite]
+"https://files.catbox.moe/6kv861.jpg"
