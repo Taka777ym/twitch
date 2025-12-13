@@ -23,3 +23,6 @@ https://taka777ym.github.io/twitch/
 
 [Dinkum]
 "https://files.catbox.moe/1histr.jpg"
+
+[ApexLegends]
+"https://files.catbox.moe/e450jw.jpg""
