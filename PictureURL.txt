@@ -26,3 +26,6 @@ https://taka777ym.github.io/twitch/
 
 [ApexLegends]
 "https://files.catbox.moe/e450jw.jpg""
+
+[Jantama]
+"https://files.catbox.moe/rn2sfa.jpg"
