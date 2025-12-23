@@ -32,3 +32,6 @@ https://taka777ym.github.io/twitch/
 
 [ぱちぱちタイピング]
 "https://files.catbox.moe/60g9xx.jpg"
+
+[ねこ天下]
+"https://files.catbox.moe/flr2c9.jpg"
