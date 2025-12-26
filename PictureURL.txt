@@ -36,5 +36,5 @@ https://taka777ym.github.io/twitch/
 [ねこ天下]
 "https://files.catbox.moe/flr2c9.jpg"
 
-[GunfireReborne]
+[GunfireReborn]
 "https://files.catbox.moe/zt2e5z.jpg"
