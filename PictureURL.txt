@@ -38,3 +38,6 @@ https://taka777ym.github.io/twitch/
 
 [GunfireReborn]
 "https://files.catbox.moe/zt2e5z.jpg"
+
+[RogueDiceR]
+"https://files.catbox.moe/xmv66d.jpg"
