@@ -41,3 +41,6 @@ https://taka777ym.github.io/twitch/
 
 [RogueDiceR]
 "https://files.catbox.moe/xmv66d.jpg"
+
+[TheForeverWinter]
+"https://files.catbox.moe/avnmoh.jpg"
