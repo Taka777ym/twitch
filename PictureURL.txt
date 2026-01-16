@@ -44,3 +44,6 @@ https://taka777ym.github.io/twitch/
 
 [TheForeverWinter]
 "https://files.catbox.moe/avnmoh.jpg"
+
+[RoguePoint]
+"https://files.catbox.moe/xtfsa6.jpg"
