@@ -47,3 +47,6 @@ https://taka777ym.github.io/twitch/
 
 [RoguePoint]
 "https://files.catbox.moe/xtfsa6.jpg"
+
+[ScrapDaddies]
+"https://files.catbox.moe/3at8fe.jpg"
