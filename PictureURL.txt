@@ -50,3 +50,6 @@ https://taka777ym.github.io/twitch/
 
 [ScrapDaddies]
 "https://files.catbox.moe/3at8fe.jpg"
+
+[WayofTheHunter]
+"https://files.catbox.moe/t2lj45.jpg"
