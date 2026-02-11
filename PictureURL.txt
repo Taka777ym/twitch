@@ -53,3 +53,6 @@ https://taka777ym.github.io/twitch/
 
 [WayofTheHunter]
 "https://files.catbox.moe/t2lj45.jpg"
+
+[VoidlingBound]
+"https://files.catbox.moe/z4l4ac.jpg"
