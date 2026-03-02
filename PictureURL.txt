@@ -59,3 +59,6 @@ https://taka777ym.github.io/twitch/
 
 [Ranger’sPath]
 "https://files.catbox.moe/828wy8.jpg"
+
+[Boxes]
+"https://files.catbox.moe/93qii4.jpg"
