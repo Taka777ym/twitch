@@ -62,3 +62,6 @@ https://taka777ym.github.io/twitch/
 
 [Boxes]
 "https://files.catbox.moe/93qii4.jpg"
+
+[Bellwright]
+"https://files.catbox.moe/q58dk2.jpg"
