@@ -65,3 +65,6 @@ https://taka777ym.github.io/twitch/
 
 [Bellwright]
 "https://files.catbox.moe/q58dk2.jpg"
+
+[SamuraiDou4]
+"https://files.catbox.moe/yrl0sv.jpg"
